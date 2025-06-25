@@ -8,11 +8,11 @@
 
 ### 🎓 Formação Acadêmica
 
-<img src="https://play-lh.googleusercontent.com/QCCzVqUglQGJn-MKlJqshTJnKnHWoVyFyxOcTRAIufYsfmgvNhgAWEj4s690MwNs7kQ=s256-rw" width="20" style="vertical-align: -5; margin-top:10"> Gran Faculdade
+<img src="https://omni-cms-static-prd.infra.grancursosonline.com.br/wp-content/uploads/2024/06/logo-footer.svg" width="25" style=" margin-top:10"> Gran Faculdade
 <br> **Análise e Desenvolvimento de Sistemas**
 <br> _( Tecnólogo - 1º semestre )_
 
-<img src="https://www.ap.senac.br/img/logo-white.png" width="20" style="vertical-align: -5;"> Serviço Nacional de Aprendizagem Comercial [SENAC]
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Senac_logo.svg" width="25"> Serviço Nacional de Aprendizagem Comercial [SENAC]
 <br> **Informática para Internet (Desenvolvedor Fullstack)**
 <br> _(Técnico - módulo IV { último módulo } )_
 
@@ -37,11 +37,11 @@
 ### 🌐 Redes Sociais:
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-<a href="https://www.linkedin.com/in/raul-ayrton-franco-589b0a1b3/">
+<a href="https://www.linkedin.com/in/raul-ayrton-franco-589b0a1b3/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/raulayrton/">
+<a href="https://www.instagram.com/raulayrton/" target="_blank">
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </div>
