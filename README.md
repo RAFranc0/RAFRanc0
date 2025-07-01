@@ -37,11 +37,11 @@
 ### 🌐 Redes Sociais:
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-<a href="https://www.linkedin.com/in/raul-ayrton-franco-589b0a1b3/" target="_blank">
+<a href="https://www.linkedin.com/in/raul-ayrton-franco-589b0a1b3/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/raulayrton/" target="_blank">
+<a href="https://www.instagram.com/raulayrton/">
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </div>
