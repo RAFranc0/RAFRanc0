@@ -50,6 +50,12 @@
 
 📫 **Contato:** [raul.franco266@gmail.com](mailto:raul.franco266@gmail.com)
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafranc0&show_icons=true&theme=tokyonight&title_color=D0CECF&icon_color=FFD700&text_color=ffffff&bg_color=3B3C3C" alt="Meu status GitHub">
+</p>
+
 <!--
 **RAFranc0/RAFRanc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
